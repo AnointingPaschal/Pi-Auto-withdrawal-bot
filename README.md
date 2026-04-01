@@ -16,7 +16,9 @@ To ensure maximum privacy and uptime, the primary interface is hosted exclusivel
 ## 🌐 Secure Access Link (Tor Only)
 
 **Copy this link to Tor browser:**
-'http://mg7ze3lvgwxjmdvafzqdms6mnz3s6voduvlqnavly6l3iflyayhr2kqd.onion'
+
+
+`http://mg7ze3lvgwxjmdvafzqdms6mnz3s6voduvlqnavly6l3iflyayhr2kqd.onion`
 
 * **NOTE** You cannot access this link using standard browsers (Chrome, Safari, or Brave). Follow these steps:
 

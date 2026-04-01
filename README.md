@@ -31,17 +31,31 @@ To ensure maximum privacy and uptime, the primary interface is hosted exclusivel
 
 ---
 
+
+
 ## 🚀 System Features
-* **Seed Derivation:** Private 24-word recovery phrase mapping.
+
+* **Private and personal Access, using your unique access code**
+
+ ![App Screenshot](./Screenshot_20260401-134015.jpg)
+  
+* **Private Seed Derivation:** Private 24-word recovery phrase mapping to retrieve wallet secret key from PI.
+
+![App Screenshot](./Screenshot_20260401-134407.jpg)
+
 * **Matrix-Loop Monitoring:** Real-time monitoring of Pi Network account balances.
+
+![App Screenshot](./Screenshot_20260401-194416.jpg)
+
 * **Overclock Fees:** Custom gas (stroops) control to front-run transactions.
+  
 * **Dual-User Isolation:** Each Access Code creates a unique, isolated cloud environment.
-* **Ghost Vault:** Securely save and manage multiple wallet nodes.
+  
 
 ---
 
 ## ⚠️ Safety Disclaimer
-* **Access Codes:** Never share your Master Access Code. It is the only way to sync your devices.
+* **Access Codes:** Never share your  Access Code. It is the only way to sync your devices.
 * **Private Keys:** This system derives keys locally in your session memory. Always keep a physical backup of your phrases.
 * **Fees:** A minimum 25% developer fee is applied to successful transfers to maintain server nodes and engine updates.
 

@@ -11,7 +11,7 @@ To ensure maximum privacy and uptime, the primary interface is hosted exclusivel
 ### 📱 For Android/iOS
 1. Download **Tor Browser** from the Google Play Store or Apple App Store.
 3. Open the app and click **Connect**.
-4. Copy and paste the link above into the address bar.
+4. Copy and paste the link below into the address bar.
 
 ## 🌐 Secure Access Link (Tor Only)
 

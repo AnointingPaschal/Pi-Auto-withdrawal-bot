@@ -5,17 +5,17 @@ Welcome to the **PI_OMEGA V18 Elite** deployment. This is a high-speed, multi-us
 To ensure maximum privacy and uptime, the primary interface is hosted exclusively on the **Tor Network (Darkweb)**. This prevents IP tracking and ensures your session remains encrypted from end-to-end.
 
 ---
+## 🛠️ How to Connect
+
+* **NOTE** You cannot access this link using standard browsers (Chrome, Safari, or Brave). Follow these steps:
+
 
 ## 🌐 Secure Access Link (Tor Only)
 
 **Current Active Node:**
-`http://mg7ze3lvgwxjmdvafzqdms6mnz3s6voduvlqnavly6l3iflyayhr2kqd.onion`
+[savemypi.wallet](http://mg7ze3lvgwxjmdvafzqdms6mnz3s6voduvlqnavly6l3iflyayhr2kqd.onion)
 
 ---
-
-## 🛠️ How to Connect
-
-You cannot access this link using standard browsers (Chrome, Safari, or Brave). Follow these steps:
 
 ### 📱 For Android/iOS
 1. Download **Tor Browser** from the Google Play Store or Apple App Store.

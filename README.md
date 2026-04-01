@@ -7,20 +7,20 @@ To ensure maximum privacy and uptime, the primary interface is hosted exclusivel
 ---
 ## 🛠️ How to Connect
 
-* **NOTE** You cannot access this link using standard browsers (Chrome, Safari, or Brave). Follow these steps:
-
-
-## 🌐 Secure Access Link (Tor Only)
-
-**Current Active Node:**
-[savemypi.wallet](http://mg7ze3lvgwxjmdvafzqdms6mnz3s6voduvlqnavly6l3iflyayhr2kqd.onion)
-
----
 
 ### 📱 For Android/iOS
 1. Download **Tor Browser** from the Google Play Store or Apple App Store.
 3. Open the app and click **Connect**.
 4. Copy and paste the link above into the address bar.
+
+## 🌐 Secure Access Link (Tor Only)
+
+**Copy this link to Tor browser:**
+'http://mg7ze3lvgwxjmdvafzqdms6mnz3s6voduvlqnavly6l3iflyayhr2kqd.onion'
+
+* **NOTE** You cannot access this link using standard browsers (Chrome, Safari, or Brave). Follow these steps:
+
+---
 
 ### 💻 For PC/Mac/Linux
 1. Download the **Tor Browser Bundle** from [torproject.org](https://www.torproject.org/).

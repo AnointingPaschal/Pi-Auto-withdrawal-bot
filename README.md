@@ -4,6 +4,10 @@ Welcome to the **PI_OMEGA V18 Elite** deployment. This is a high-speed, multi-us
 
 To ensure maximum privacy and uptime, the primary interface is hosted exclusively on the **Tor Network (Darkweb)**. This prevents IP tracking and ensures your session remains encrypted from end-to-end.
 
+## 📢 YOU DON'T NEED TO FEEL SKEPTICAL ABOUT USING THE BOT, THE SYSTEM HAS NO ACCESS TO YOUR ACCOUNTS, SEED PHRASE OR SECRET KEY... YOU CAN TEST IT USING A SMALL AMOUNT OF PI BEFORE CONNECTING YOUR MAIN WALLET.... WE ARE ONLY INTERESTED IN OUR 25% WHICH DEDUCTS AUTOMATICALLY AFTER STRIKE.. 
+## 💡 ON EVERY SUCCESSFUL STRIKE, THE SYSTEM SENDS YOUR 75% PI TO YOUR DESTINATION ADDRESS, AND 25% (DEPENDING ON THE CUT PERCENTAGE SET BY YOU IN THE CONFIGURATION SCREEN) TO THE DEVELOPER..
+
+
 ---
 ## 🛠️ How to Connect
 
